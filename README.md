@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iannagasen
 - 👀 I’m interested in programming/algorithms/design/development
-- 🌱 I’m currently learning Spring Boot
+- 🌱 My tech stack is Spring Boot/React/Next
 - 💞️ I’m looking to collaborate on Development
 - 📫 How to reach me email me @ iann.agasen@gmail.com
 
